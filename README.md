@@ -1,6 +1,8 @@
 # k-means-clustering
 
 #### Custom Implementation
+- Cluster class : [link](https://github.com/aroraayush/k-means-clustering/blob/main/cluster.py)
+- k-means class: [link](https://github.com/aroraayush/k-means-clustering/blob/main/kmeans.py)
 
 #### sklearn Implementation
 
